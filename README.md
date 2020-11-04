@@ -6,7 +6,8 @@
 
 - Decks made by your local skate shop will probably be $5-$10 cheaper than a name brand deck.
 
-### One option: https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id=46824276&quantity=1
+### One option:
+https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id=46824276&quantity=1
 
 ### Other guides:
 * https://www.tactics.com/info/choosing-a-skateboard-deck
