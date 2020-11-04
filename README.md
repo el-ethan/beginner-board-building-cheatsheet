@@ -7,10 +7,10 @@
 - Decks made by your local skate shop will probably be $5-$10 cheaper than a name brand deck.
 
 ### One option:
-https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id=46824276&quantity=1
+[https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id=46824276&quantity=1](https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id=46824276&quantity=1)
 
 ### Other guides:
-* https://www.tactics.com/info/choosing-a-skateboard-deck
+* [https://www.tactics.com/info/choosing-a-skateboard-deck](https://www.tactics.com/info/choosing-a-skateboard-deck)
 
 ## Trucks
 
@@ -23,10 +23,10 @@ https://www.escapistskateboarding.com/escapist-jay-croft-blue-devil-deck.html?id
 - Any brand of truck should work fine for you. Thunder and Independent are the most popular, with Independent thought of as more sturdy but less agile, and Thunder being the opposite; but either brand should be sufficiently sturdy/durable and agile for a beginner.
 
 ### One (expensive) option:
-https://www.escapistskateboarding.com/independent-stage-11-forged-titanium-silver-trucks.html
+[https://www.escapistskateboarding.com/independent-stage-11-forged-titanium-silver-trucks.html](https://www.escapistskateboarding.com/independent-stage-11-forged-titanium-silver-trucks.html)
 
 ### Other guides:
-https://shop.ccs.com/skateboard-buyers-guide/skateboard-trucks
+[https://shop.ccs.com/skateboard-buyers-guide/skateboard-trucks](https://shop.ccs.com/skateboard-buyers-guide/skateboard-trucks)
 
 ## Wheels
 
@@ -35,10 +35,10 @@ https://shop.ccs.com/skateboard-buyers-guide/skateboard-trucks
 - If you mostly want to cruise around, I would recommend a softer wheel because they ride smoother and faster, are better for rough terrain (you won't go flying if you hit a crack or an acorn), and they are quieter. I like 78A for hardness, which is about as soft as you can get, but something in the 80s or 90s should be fine too. I wouldn’t go too hard, unless you mainly plan to skate in well-paved parks. For size, I would recommend between 52-54mm. I personally love [these](https://www.tactics.com/ricta/cloud-skateboard-wheels/white-blue-chrome-78a) in 78a at 54mm.
   
 ### One option:
-https://www.tactics.com/ricta/cloud-skateboard-wheels/white-blue-chrome-78a
+[https://www.tactics.com/ricta/cloud-skateboard-wheels/white-blue-chrome-78a](https://www.tactics.com/ricta/cloud-skateboard-wheels/white-blue-chrome-78a)
 
 ### Other guides:
-https://www.warehouseskateboards.com/help/Skateboard-Wheels-Buying-Guide
+[https://www.warehouseskateboards.com/help/Skateboard-Wheels-Buying-Guide](https://www.warehouseskateboards.com/help/Skateboard-Wheels-Buying-Guide)
 
 ## Bearings
 
