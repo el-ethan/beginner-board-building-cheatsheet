@@ -56,7 +56,7 @@
 
 ## Hardware
 
-- This is what attaches your trucks to your board, and you might assume that it comes with the trucks; it does not. The only thing that will really matter here is length. Most hardware is 7/8", and that will be fine, as long as you are not using riser pads (which will not be covered here because I have never used them). You can get extra-light hardware, but standard hardware is already sufficiently light. You might have a choice between e.g., allen and phillips head. I like [Shorty's Silverado's](https://www.shortysinc.com/products/shortys-silverados-phillips-head-hardware?variant=33606284640387) because they have two silver bolts which can be placed at the nose or tail end of the board as a cue to board orientation...and also I just like Shorty's.
+- This is what attaches your trucks to your board, and you might assume that it comes with the trucks; it does not. The only thing that will really matter here is length. Most hardware is 7/8", and that will be fine, as long as you are not using riser pads (which will not be covered here because I have never used them - but [here's a guide](https://www.warehouseskateboards.com/help/Skateboard-Risers-Buying-Guide)). You can get extra-light hardware, but standard hardware is already sufficiently light. You might have a choice between e.g., allen and phillips head. I like [Shorty's Silverado's](https://www.shortysinc.com/products/shortys-silverados-phillips-head-hardware?variant=33606284640387) because they have two silver bolts which can be placed at the nose or tail end of the board as a cue to board orientation...and also I just like Shorty's.
 
 ## Griptape
 
@@ -64,5 +64,5 @@
 
 # Local (KC area) shops:
 
-* [Escapist](https://www.escapistskateboarding.com)
-* [Erik's](https://www.eriksbikeshop.com/) (not a skate shop, but has some good gear)
+- [Escapist](https://www.escapistskateboarding.com)
+- [Erik's](https://www.eriksbikeshop.com/) (not a skate shop, but has some good gear)
